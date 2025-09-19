@@ -1,0 +1,4 @@
+url,label
+http://malicious-login.com,phishing
+http://free-gift.example.tk,phishing
+http://192.168.0.1/login,phishing

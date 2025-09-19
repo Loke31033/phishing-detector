@@ -1,0 +1,6 @@
+url,label,length,num_dots,has_at,https,num_hyphen,domain_length
+http://malicious-login.com,phishing,26,1,0,0,1,19
+http://free-gift.example.tk,phishing,27,2,0,0,1,20
+http://192.168.0.1/login,phishing,24,3,0,0,0,11
+https://www.google.com,safe,22,2,0,1,0,14
+https://www.github.com,safe,22,2,0,1,0,14
